@@ -2,6 +2,8 @@
 
 Bring black & white photos back to life using a **Generative Adversarial Network (GAN)** trained from scratch. This web application uses a ResNet18-based UNet architecture with a PatchGAN discriminator to intelligently colorize grayscale and black & white images.
 
+## The App is live @ https://ugh-colorizer.streamlit.app/
+
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square)
