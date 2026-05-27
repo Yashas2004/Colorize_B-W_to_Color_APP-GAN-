@@ -4,6 +4,8 @@ Bring black & white photos back to life using a **Generative Adversarial Network
 
 ## The App is live @ https://ugh-colorizer.streamlit.app/
 
+![Colorization Demo](demo.jpg)
+
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square)
