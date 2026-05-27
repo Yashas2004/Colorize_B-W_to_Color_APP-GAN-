@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+fastai
+scikit-image
+numpy
+Pillow
