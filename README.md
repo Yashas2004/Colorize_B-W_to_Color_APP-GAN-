@@ -153,19 +153,11 @@ streamlit run app.py
 - Assumes grayscale input for optimal results
 - Requires proper lighting and contrast in source images
 
-## 🔮 Future Improvements
-
-- [ ] Batch processing for multiple images
-- [ ] Custom model fine-tuning interface
-- [ ] Real-time preview with different colorization styles
-- [ ] Support for video colorization
-- [ ] Quantized model for faster inference
-- [ ] Mobile app version
 
 ## 📧 Contact & Support
 
-For issues, questions, or suggestions, please open an issue on GitHub.
+For issues, questions, or suggestions, please contact me Via email/linkdin...
 
 ---
 
-**Built with ❤️ using PyTorch, Streamlit, and deep learning magic.**
+**Thank you......the main part of this is in my other repo where i built the entire pipeline from scratch!!!!**
